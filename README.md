@@ -6,7 +6,7 @@ The detailed comments will guide you through the code, making it easier to under
 
 ## List of Annotated Contracts
 
--   [x] [ERC20](https://github.com/adnpark/https://github.com/adnpark/solady-annotated/blob/main/src/tokens/ERC20.sol)
+-   [x] [ERC20](https://github.com/adnpark/solady-annotated/blob/main/src/tokens/ERC20.sol)
 
 ## To be annotated next
 
