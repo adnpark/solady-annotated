@@ -1,6 +1,12 @@
-# Solady Annotated
+# Solady-Annotated
 
-This is a fork of [Solady](https://github.com/Vectorized/solady) with the code annotated.
+This is a fork of [Solady](https://github.com/Vectorized/solady) with added annotations.
+If you’re not familiar with Solidity assembly but want to understand Solady contracts, this repo is for you.
+The detailed comments will guide you through the code, making it easier to understand and helping you develop your own contracts using Solady.
+
+## List of Annotated Contracts
+
+-   [x] ERC20
 
 # <img src="logo.svg" alt="solady" height="118"/>
 
